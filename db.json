@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "Tanakorn",
+      "lastName": "Boonsukurt",
+      "email": "Boonsukurtbew@gmail.com",
+      "telephone": "0924871742",
+      "salary": "3000000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
